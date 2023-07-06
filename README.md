@@ -36,10 +36,6 @@ To run the code, you will need:
 
 Contributions to improve this project are welcome! Feel free to open issues or pull requests with suggestions for improvements, bug fixes, or new features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact:
